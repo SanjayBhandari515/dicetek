@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Practice Suite">
+
+    <listeners>
+        <listener class-name="axiom.utils.report.TestListener"/>
+        <listener class-name="axiom.utils.retry.RetryListener"></listener>
+    </listeners>
+
+    <test name="Test 1">
+        <classes>
+            <class name="tests.Module1.APILinkTests">
+                <methods>
+                    <include name="getAPILink"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+
+</suite>

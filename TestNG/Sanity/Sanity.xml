@@ -1,0 +1,5 @@
+<suite name="Regression">
+    <suite-files>
+        <suite-file path="../Module1/testing1.xml"/>
+    </suite-files>
+</suite>
