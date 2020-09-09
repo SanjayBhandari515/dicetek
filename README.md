@@ -47,3 +47,5 @@ The major components of this projects are:
 ●src/test/java/axiom/test: Contains all the tests
 ●TestNG: from here we can execute our tests
 ●TestReport: Contains generated html report
+
+
