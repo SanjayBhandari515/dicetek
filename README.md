@@ -48,4 +48,4 @@ The major components of this projects are:
 ●TestNG: from here we can execute our tests
 ●TestReport: Contains generated html report
 
-![alt text](http://url/to/img.png)
+![alt text](http://url/to/file://C:/Users/Himanshu/Desktop/Automation%20Report.PNG)
