@@ -30,19 +30,19 @@ o /employee/{id} – ID should be picked from the external file
 
 
 Programming Language and Automation Tools
-Programming Language:Java
-Build Tool: Maven
-rest-assured 4.0.0
-TestNG:6.14.3
-Extent-Report:3.1.5
-IDE: IntelliJ IDEA 2020.2
+●Programming Language:Java
+●Build Tool: Maven
+●rest-assured 4.0.0
+●TestNG:6.14.3
+●Extent-Report:3.1.5
+●IDE: IntelliJ IDEA 2020.2
 
 Folder Structure Overview
 The major components of this projects are:
 
-src/main/java/axiom/framework: Contains common methods for Get, Put, Post etc also Pojo classes.
-src/main/java/axiom/pages: Containing all the pages
-src/main/java/axiom/utils: Containing all the utilities like reporting tool, retry mechanism, configfile setup.
-src/test/java/axiom/test: Contains all the tests
-TestNG: from here we can execute our tests
-TestReport: Contains generated html report
+●src/main/java/axiom/framework: Contains common methods for Get, Put, Post etc also Pojo classes.
+●src/main/java/axiom/pages: Containing all the pages
+●src/main/java/axiom/utils: Containing all the utilities like reporting tool, retry mechanism, configfile setup.
+●src/test/java/axiom/test: Contains all the tests
+●TestNG: from here we can execute our tests
+●TestReport: Contains generated html report
